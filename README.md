@@ -10,5 +10,7 @@ date1 = date(1992,12,1)
 
 The datetime object has a lot of useful properties:
 * datetime.date.weekday()
-* datetime.date.month()
+* datetime.date.year
+* datetime.date.month
+* datetime.date.day
 
