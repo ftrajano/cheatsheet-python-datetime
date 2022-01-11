@@ -18,6 +18,7 @@ The datetime object has a lot of useful properties:
 
 ## Math with dates
 Like numbers, we can operate with dates but de result of this operation is a timedelta and we need to call the atribute days to get the difference.
+```python
 delta = date1-date2
-print(delta.days) -> 30
-
+print(delta.days) #30
+```
